@@ -11,4 +11,4 @@ python app.py
 
 ## Implementation
 
-This is a project implemented using Flask.
+This is a project implemented using Flask, Flask-RESTful, Flask-JWT, and Flask-SQLAlchemy.
